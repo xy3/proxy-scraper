@@ -1,4 +1,4 @@
-# Depp-ProxyScraper
+# Depp's ProxyScraper
 A fast, minimal, easy to use and lightweight proxy scraper.
 
 ## Features
