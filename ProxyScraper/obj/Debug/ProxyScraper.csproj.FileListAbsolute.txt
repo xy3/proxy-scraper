@@ -1,0 +1,10 @@
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.exe.config
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.exe
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.pdb
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csprojResolveAssemblyReference.cache
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.Properties.Resources.resources
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csproj.GenerateResource.Cache
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.exe
+c:\users\theo\documents\visual studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.pdb
+C:\Users\Theo\Documents\Visual Studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\Visual Studio 2015\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.ProxyScraper.resources
