@@ -133,7 +133,8 @@ namespace ProxyScraper
 
         private void BTN_Quit_Click(object sender, EventArgs e) // Saves & exits
         {
-            BTN_Save_Click(sender, e);
+            if (count > 0)
+                BTN_Save_Click(sender, e);
             Application.Exit();
         }
 
