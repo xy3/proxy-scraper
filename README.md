@@ -11,4 +11,4 @@ You can use this free proxy scraper to scrape proxies from proxy scraping source
 - Sexy Minimal UI
 - Ships w/ 48 sources - gets you over 10k proxies
 - Strong jaw line
-- It's sexy bro
+- It's sexy lol
