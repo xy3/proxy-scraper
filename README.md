@@ -1,6 +1,9 @@
-# Depp's Proxy Scraper
-A fast, minimal, easy to use and lightweight proxy scraper.
-You can use this free proxy scraper to scrape proxies from proxy scraping sources for your proxy needs. (It scrapes proxies)
+# Proxy Scraper
+Lightweight & cool.
+(It scrapes proxies)
+
+## Usage
+Give it some sources, or use the ones provided and click scrape.
 
 ![screenshot](https://i.imgur.com/5snaXPw.png)
 
@@ -8,7 +11,6 @@ You can use this free proxy scraper to scrape proxies from proxy scraping source
 - Fast proxy scraping
 - Custom sources
 - Sources checking (can save the URLS that contain proxies)
-- Sexy Minimal UI
-- Ships w/ 48 sources - gets you over 10k proxies
-- Strong jaw line
-- It's sexy lol
+- cool Minimal UI
+- Comes with 48 sources - scrapes 10k+ proxies
+- It's cool lol
