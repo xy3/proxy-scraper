@@ -1,6 +1,5 @@
 # Proxy Scraper
 Lightweight & cool.
-(It scrapes proxies)
 
 ## Usage
 Give it some sources, or use the ones provided and click scrape.
